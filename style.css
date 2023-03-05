@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Tilt Warp', cursive;;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    width: 130px;
+    height: 30px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {  
+    width: 80px;
+    height: 40px;
+    border-radius: 20%;
+    background-color: #865DFF;
+}
+
+
+button:hover {
+    background-color: #F9DBBB;
+}
+
+.As {
+    text-align: center;
+}
